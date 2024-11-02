@@ -26,17 +26,17 @@
 <!--Stats, Top-Language, Streak -->
 <div align="center">
     <!-- Summary -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamRB-dev&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarAwayFromLife&theme=2077">
     <!-- Stats -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamRB-dev&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarAwayFromLife&theme=2077">
     <!-- Top Language -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamRB-dev&theme=2077">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamRB-dev&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarAwayFromLife&theme=2077">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarAwayFromLife&theme=2077">
     <!-- Commits -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamRB-dev&theme=2077&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarAwayFromLife&theme=2077&utcOffset=8">
 </div>
 <div align="center">
-     <img src="https://streak-stats.demolab.com/?user=SamRB-dev&theme=radical&hide_border=true"/>
+     <img src="https://streak-stats.demolab.com/?user=FarAwayFromLife&theme=radical&hide_border=true"/>
 </div>
 
 <div id="Languages" align="center">
@@ -105,7 +105,7 @@
 
 <div align="center"> 
      <h2>Trophies</h2>
-     <img src="https://github-profile-trophy.vercel.app/?username=samrb-dev" alt="samrb-dev" />
+     <img src="https://github-profile-trophy.vercel.app/?username=FarAwayFromLife" alt="FarAwayFromLife" />
 </div><br>
 
 
@@ -122,17 +122,3 @@
 
 - ⚡ Fun fact:
        - I Like fighting games, anime and chess :D
-
-<!--
-**SamRB-dev/SamRB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
-
