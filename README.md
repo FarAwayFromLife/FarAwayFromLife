@@ -17,10 +17,8 @@
 
 <!-- Socials -->
 <div id="socials" align="center">
-    <a href="https://www.linkedin.com/in/srb008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-     <a href="https://youtube.com/@samisnoviceinprogramming" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF3A20?style=for-the-badge&logo=youtube"></a>
-     <a href="https://www.kaggle.com/sadimrahmanbadhan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>
-     <a href="https://www.upwork.com/freelancers/~0108126455447f4a2a?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff&style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/farhan-tanvir-rafi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+     <a href="https://www.kaggle.com/farawayfromlife" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>
 </div><br>
 
 <!--Stats, Top-Language, Streak -->
@@ -48,15 +46,9 @@
        <img width="15" />
        <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
        <img width="15" />
-       <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-       <img width="15" />
        <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
        <img width="15" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-       <img width="15" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-       <img width="15" />
-       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="50" alt="jupyter logo"  />
        <img width="15" />
        <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
        <img width="15" />
@@ -82,19 +74,11 @@
        <img width="15" />
        <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="50" alt="canva logo"  />
        <img width="15" />
-       <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
-       <img width="15" />
        <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="50" alt="ubuntu logo"  />
        <img width="15" />
        <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
        <img width="15" />
        <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-       <img width="15" />
-       <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-       <img width="15" />
-       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="50" alt="fastapi logo"  />
-       <img width="15" />
-       <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
        <img width="15" />
        <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
        <img width="15" />
@@ -110,15 +94,8 @@
 
 
 ## 🌱 I’m currently learning 
-- ### Machine Learning with Python
-  - #### Kaggle Projects
-    - ##### Regression
-      - [Tesla Stock Price Prediction (linear)](https://www.kaggle.com/sadimrahmanbadhan/tesla-stock-price-prediction-linearregression/notebook)
-      - [Software Engineer Salary Prediction (linear)](https://www.kaggle.com/code/sadimrahmanbadhan/software-engineer-salary-prediction-linear)
-    - ##### Classification
-      - [Iris Flower Classification (logistic)](https://www.kaggle.com/code/sadimrahmanbadhan/iris-flower-classification-logistic-guided)
-      - [Diabetes-Classification-on-women (logistic)](https://www.kaggle.com/code/sadimrahmanbadhan/diabetes-detection)
-      - [Bank Customer Churn Prediction](https://www.kaggle.com/code/sadimrahmanbadhan/bank-customer-churn-prediction)
+- ### Web-Development and Machine Learning
+- Having Interest on Cyber Security as well.
 
 - ⚡ Fun fact:
-       - I Like fighting games, anime and chess :D
+Love to read books-Play games :D
