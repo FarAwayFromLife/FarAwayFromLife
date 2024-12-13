@@ -6,7 +6,7 @@
 
 
 <div align="center">
-     <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
+     <img src="https://github.com/FarAwayFromLife/FarAwayFromLife/blob/main/Pc%20gif.gif" width="250">
      <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="200">
 </div>
 
