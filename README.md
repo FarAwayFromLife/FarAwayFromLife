@@ -1,7 +1,7 @@
 <!-- Resource: https://github.com/rzashakeri/beautify-github-profile -->
 <div align="center">
      <!--Header-->
-     <img src="https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png" width="90%">
+     <img src="[https://user-images.githubusercontent.com/70096616/220016510-27dcf125-1136-4c3e-b318-3f19d2020a6b.png](https://raw.githubusercontent.com/FarAwayFromLife/FarAwayFromLife/refs/heads/main/Github.png)" width="90%">
 </div>
 
 
